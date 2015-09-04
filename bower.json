@@ -1,0 +1,21 @@
+{
+  "name": "inazuma",
+  "version": "1.0.0",
+  "homepage": "https://github.com/propos-jp/inazuma",
+  "authors": [
+    "propos-jp <obata.hiroshi@propos.jp>"
+  ],
+  "description": "Document Formatting Sysytem",
+  "main": "main.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
