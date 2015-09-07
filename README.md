@@ -1,0 +1,3 @@
+# inazuma
+
+document format system
