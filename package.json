@@ -18,7 +18,9 @@
   },
   "homepage": "https://github.com/propos-jp/inazuma#readme",
   "dependencies": {
-    "config": "^1.16.0"
+    "chai": "^3.2.0",
+    "config": "^1.16.0",
+    "glob": "^5.0.14"
   },
   "devDependencies": {
     "chai": "^3.2.0",
